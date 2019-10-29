@@ -1,5 +1,5 @@
 # Simple example of Tabs using native JS
-## (syntax US6)
+## (syntax ES6)
 ____
 
 Usage example: HTML document contains several buttons implemented as DIV,
