@@ -1,9 +1,9 @@
 let settings = {
-    btnsClass: "info-header-tab",   // Class name of control elements
-    btnsParentClass: "info-header", // Parent of control elements
-    tabsClass: "info-tabcontent",   // Tabs, controlled by control elements
-    showClass: "show",              // Class that shows a tab
-    hideClass: "hide"               // Class that hides a tab
+    'btnsClass': "info-header-tab",   // Class name of control elements
+    'btnsParentClass': "info-header", // Parent of control elements
+    'tabsClass': "info-tabcontent",   // Tabs, controlled by control elements
+    'showClass': "show",              // Class that shows a tab
+    'hideClass': "hide"               // Class that hides a tab
 };
 
 setClickSettings(settings);
